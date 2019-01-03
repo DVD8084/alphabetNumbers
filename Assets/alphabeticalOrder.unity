@@ -203,6 +203,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 1527849116778770, guid: e90f6c801ea044648aa694f4a5987ede, type: 2}
+      propertyPath: m_Name
+      value: alphabetNumbers_rus
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e90f6c801ea044648aa694f4a5987ede, type: 2}
   m_IsPrefabParent: 0

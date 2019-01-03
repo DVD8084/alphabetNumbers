@@ -11,14 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: alphabetNumbers
-  title: Alphabet Numbers
-  description: 'Alphabet Numbers 1.1
+  id: AlphabetNumbers_Rus
+  title: Alphabet Numbers (Rus)
+  description: 'Alphabet Numbers 1.1 (Rus)
 
     ...one, two, three, four... hang on... four, three, two... no... four, one, two...
 
 
-    Module ID: alphabetNumbers
+    Module ID: alphabetNumbers_rus
 
 
     Created by: WhiteShadowZz
@@ -26,6 +26,8 @@ MonoBehaviour:
     Implemented by: Royal_Flu$h
 
     TwitchPlays implemented by: red031000
+
+    Translated by: DVD
 
 
     Thanks to Timwi for the manual image.
